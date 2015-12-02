@@ -42,7 +42,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<ul>
-						<li><strong></strong><a href="//ath.mbhs.xyz">Athletics</a></strong></li>
+						<li><strong><a href="//ath.mbhs.xyz">Athletics</a></strong></li>
 						<ul>
 							<li><a href="//bsk.ath.mbhs.xyz">Basketball</a></li>
 							<li><a href="//bse.ath.mbhs.xyz">Baseball</a></li>
