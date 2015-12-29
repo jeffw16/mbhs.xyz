@@ -54,10 +54,10 @@
 							<li><a href="//vol.ath.mbhs.xyz">Volleyball</a></li>
 							<li><a href="//wr.ath.mbhs.xyz">Wrestling</a></li>
 						</ul> <!-- ath -->
-						<li><strong><a href="//c.mbhs.xyz">Computer Science</a><strong></li>
+						<li><strong><a href="//c.mbhs.xyz">Computer Science</a></strong></li>
 						<li><a href="//cs.mbhs.xyz">Computer Science Club</a></li>
-						<li><strong><a href="//engr.mbhs.xyz">Engineering Department</a><strong></li>
-						<li><strong><a href="//eng.mbhs.xyz">English Department</a><strong></li>
+						<li><strong><a href="//engr.mbhs.xyz">Engineering Department</a></strong></li>
+						<li><strong><a href="//eng.mbhs.xyz">English Department</a></strong></li>
 						<ul>
 							<li><a href="//i.eng.mbhs.xyz">English I</a></li>
 							<li><a href="//ii.eng.mbhs.xyz">English II</a></li>
