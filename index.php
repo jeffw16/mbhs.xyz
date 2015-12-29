@@ -42,7 +42,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<ul>
-						<li><a href="//ath.mbhs.xyz">Athletics</a></li>
+						<li><strong><a href="//ath.mbhs.xyz">Athletics</a></strong></li>
 						<ul>
 							<li><a href="//bsk.ath.mbhs.xyz">Basketball</a></li>
 							<li><a href="//bse.ath.mbhs.xyz">Baseball</a></li>
@@ -54,10 +54,10 @@
 							<li><a href="//vol.ath.mbhs.xyz">Volleyball</a></li>
 							<li><a href="//wr.ath.mbhs.xyz">Wrestling</a></li>
 						</ul> <!-- ath -->
-						<li><a href="//c.mbhs.xyz">Computer Science</a></li>
+						<li><strong><a href="//c.mbhs.xyz">Computer Science</a><strong></li>
 						<li><a href="//cs.mbhs.xyz">Computer Science Club</a></li>
-						<li><a href="//engr.mbhs.xyz">Engineering Department</a></li>
-						<li><a href="//eng.mbhs.xyz">English Department</a></li>
+						<li><strong><a href="//engr.mbhs.xyz">Engineering Department</a><strong></li>
+						<li><strong><a href="//eng.mbhs.xyz">English Department</a><strong></li>
 						<ul>
 							<li><a href="//i.eng.mbhs.xyz">English I</a></li>
 							<li><a href="//ii.eng.mbhs.xyz">English II</a></li>
@@ -69,7 +69,7 @@
 				</div>
 				<div class="col-md-4">
 					<ul>
-						<li><a href="//arts.mbhs.xyz">Fine Arts Department</a></li>
+						<li><strong><a href="//arts.mbhs.xyz">Fine Arts Department</a></strong></li>
 						<ul>
 							<li><a href="//boydband.com">Band</a></li>
 							<li><a href="//boydchoir.com">Choir</a></li>
@@ -77,7 +77,7 @@
 							<li><a href="//boydorchestra.com">Orchestra</a></li>
 							<li><a href="//broncotheater.com">Theater</a></li>
 						</ul><!-- finearts -->
-						<li><a href="//lang.mbhs.xyz">Foreign Language Department</a></li>
+						<li><strong><a href="//lang.mbhs.xyz">Foreign Language Department</a></strong></li>
 						<ul>
 							<li><a href="//asl.lang.mbhs.xyz">American Sign Language (ASL)</a></li>
 							<li><a href="//zh.lang.mbhs.xyz">Chinese</a></li>
@@ -87,7 +87,7 @@
 							<li><a href="//es.lang.mbhs.xyz">Spanish</a></li>
 						</ul><!-- lang -->
 						<li><a href="//www.mywikis.com/products/srcbin/gpacalculator.php">GPA Calculator</a></li>
-						<li><a href="//hist.mbhs.xyz">History Department</li>
+						<li><strong><a href="//hist.mbhs.xyz">History Department</a></strong></li>
 						<ul>
 							<li><a href="//wgeo.hist.mbhs.xyz">World Geography</a></li>
 							<li><a href="//hug.hist.mbhs.xyz">AP Human Geography</a></li>
@@ -112,7 +112,7 @@
 				</div>
 				<div class="col-md-4">
 					<ul>
-						<li><a href="//math.mbhs.xyz">Math Department</a></li>
+						<li><strong><a href="//math.mbhs.xyz">Math Department</a></strong></li>
 						<ul>
 							<li><a href="//algi.math.mbhs.xyz">Algebra I</a></li>
 							<li><a href="//geo.math.mbhs.xyz">Geometry</a></li>
@@ -128,7 +128,7 @@
 							</ul>
 							<li><a href="//stats.math.mbhs.xyz">AP Statistics</a></li>
 						</ul><!-- math -->
-						<li><a href="//sci.mbhs.xyz">Science Department</a></li>
+						<li><strong><a href="//sci.mbhs.xyz">Science Department</a></strong></li>
 						<ul>
 							<li><a href="//bio.sci.mbhs.xyz">Biology</a></li>
 							<li><a href="//apbio.sci.mbhs.xyz">AP Biology</a></li>
